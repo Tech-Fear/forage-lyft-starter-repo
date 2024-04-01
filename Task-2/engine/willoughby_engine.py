@@ -1,6 +1,4 @@
-from abc import ABC
-
-from car import Car
+from engine.engine import Engine
 
 
 class WilloughbyEngine(Car, ABC):
